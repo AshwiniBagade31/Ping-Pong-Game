@@ -65,3 +65,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Enjoy playing the Ping Pong Game!
+
+![image](https://github.com/AshwiniBagade31/Ping-Pong-Game/assets/138771268/b08dda99-ad8f-435f-931f-27d3d15445bf)
+
